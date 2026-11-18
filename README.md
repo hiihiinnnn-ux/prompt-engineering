@@ -27,6 +27,14 @@ The original PDF edition is prepared separately for upload.
 11. [Building Real-World AI Applications](chapters/11.md)
 12. [EL.ai: An Engineering Case Study and Roadmap](chapters/12.md)
 
+## Companion examples
+
+[Python examples and tests](examples/) — Python 3.10+, no API key or third-party packages required.
+
+```bash
+python -m unittest discover -s examples -v
+```
+
 ## About this edition
 
 AI-assisted drafting and editing were used. The EL.ai case study reflects reported project experience, not an independent audit. The examples are educational; verify technical assumptions for your own deployments. No public reuse license has been granted.
