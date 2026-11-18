@@ -1,8 +1,20 @@
+<div align="center">
+
+<img src="assets/cover.svg" alt="EL's Prompt Engineering — book cover by Ali Raed" width="320" />
+
 # EL's Prompt Engineering
 
-**From Instructions to Intelligent Systems — Ali Raed**
+### From Instructions to Intelligent Systems
 
-First edition · November 2026 · English · 96-page PDF edition
+**Ali Raed · First Edition · 2026**
+
+`96 pages` &nbsp; `12 chapters` &nbsp; `English` &nbsp; `AI Engineering`
+
+[**Read the book**](BOOK.md) · [**Explore the chapters**](#contents) · [**EL.ai**](https://elsai.space/)
+
+</div>
+
+---
 
 A practical introduction to AI engineering, covering prompt design, context engineering, retrieval, tool calling, security, evaluation, and real-world applications. Chapter 12 discusses EL.ai, a bilingual AI application project.
 
